@@ -1,1 +1,1 @@
-# Android_practice1
+# Практическая работа n1 по Android Studio
